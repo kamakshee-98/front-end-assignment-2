@@ -1,0 +1,42 @@
+/*This sheet is linked with Contact page*/
+/*form has been styled*/
+body{
+    background-image:radial-gradient(circle,rgb(187, 147, 44),rgb(199, 199, 66));
+}
+form{
+        color:brown;
+        font-style: italic;
+        padding: 100px;
+        padding-top: 20px;
+        margin: 60px;
+        width: 250px;
+        margin-left: 450px;
+        margin-right: auto;
+        border-width: 5px;
+        border-radius: 10px;
+        border: dashed rgb(192, 76, 76);
+        background-color: goldenrod;
+        font-size: 20px;
+        bottom: 20px;
+        text-align: center;
+        
+    
+    }
+    h2{
+        text-align: center;
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+    button{
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: normal;
+        color: black;
+        border-radius: 5px;
+        border: solid 3px;
+        background-color:chocolate;
+    }
+    button:hover{
+        background-color: rgb(233, 57, 4);
+        color: wheat;
+    }

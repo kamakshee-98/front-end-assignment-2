@@ -1,0 +1,94 @@
+/*home page styling*/
+/*this page is linked with home page*/
+body{
+    background-image: linear-gradient(to right,rgb(223, 197, 49),black,rgb(172, 154, 57));
+    position: fixed;
+}
+h1{
+    font-style: italic;
+    color: rgba(231, 216, 11, 0.904);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+img{
+    padding:10px;
+    display: inline;
+    margin-left: 120px;
+    margin-right: 20px;
+    border-radius: 25px;
+}
+/*button styling*/
+.button1{
+    position:absolute;
+    display: inline;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    padding-left: 130px;
+    padding-right: 130px;
+    border-radius: 10px;
+    border: double;
+    left: 11%;
+    top:9%;
+    font-size: 25px;
+    font-family:cursive;
+    background-color:rgb(117, 105, 33);
+    justify-content: center;
+
+}
+.button1:hover{
+    background-color: rgb(90,75,38);
+    
+}
+.button2{
+    position:absolute;
+    display: inline;
+    cursor: pointer;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    padding-right: 110px;
+    padding-left: 110px;
+    border-radius: 10px;
+    border: double;
+    left:38.7%;
+    top:8.5%;
+    font-size: 25px;
+    font-family:cursive;
+    background-color:rgb(117, 105, 33);
+    
+}
+.button2:hover{
+    background-color: rgb(90,75,38);
+}
+.button3{
+    position:absolute;
+    display: inline;
+    cursor: pointer;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    padding-right: 110px;
+    padding-left: 110px;
+    border-radius: 10px;
+    border: double;
+    left:68.7%;
+    top:8.5%;
+    font-size: 25px;
+    font-family:cursive;
+    background-color:rgb(117,105,33);
+}
+.button3:hover{
+    background-color: rgb(90, 75, 38);
+}
+a{
+    color:black;
+}
+a:hover{
+    color:rgb(201, 154, 36);
+}
+
+
